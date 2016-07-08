@@ -1,0 +1,154 @@
+[Servername] Minecraft Server End User License Agreement
+
+Version 1.0, July 2016
+
+Sections in this document:
+
+1. Definitions
+2. Restrictions of Access and Use
+3. Restrictions and Benefits of Operator-level Privilege
+  a. Restrictions of Moderation
+  b. Decision-Making and License Alteration
+4. Limitation of Liability
+5. Applicability of License
+
+TERMS AND CONDITIONS FOR ACCESS AND USE
+
+1. Definitions
+
+"License" shall mean the terms and conditions for access and use as defined by Sections 1 through 5 of this document.
+
+"Server" shall mean the Minecraft server from which the License is granted or denied, specifically "[Servername]" located at "[Server IP]".
+
+"Webpage" shall mean the official website for the Server, located at "[Server Website Address]".
+
+"Player" (or "You", "Your", "Yourself", etc.) shall mean a Minecraft account representing an individual exercising permissions granted by this License who is accessing or using the Server.
+
+"Server Owner" shall mean the physical owner of the server, specifically "[Server Owner]".
+
+"Operator" shall mean a Player who has been granted operator-level privileges by the Server Owner, including the Server Owner.
+
+"Builder" shall mean an Operator who does not make decisions in the License Revocation and License Alteration Council and does not have the permission to revoke or grant this License to Players except when deemed necessary by the License Revocation and License Alteration Council.
+
+"Moderator" shall mean an Operator who has been granted permission by the Server Owner to revoke this License to Players who have infringed upon its Restrictions.
+
+"Admin" shall mean a Moderator who has been granted higher decision-making permissions by the Server Owner.
+
+"World" shall mean the Minecraft world in which the Player plays on the server.
+
+"Item" shall mean a Minecraft item which may be stored within the Player's inventory.
+
+"Block" shall mean an Item which takes up space within the World.
+
+"Build" shall mean a group of Blocks placed by or belonging to the Player.
+
+"Temporary Denial of Access and Use" shall mean an ejection from the server ("Kick") or a complete denial of access to the server ("Ban") for a period not longer than 30 days.
+
+"Permanent Denial of Access and Use" shall mean an immediate and complete denial of access to the server ("Ban") which will not be lifted.
+
+"License Revocation and License Alteration Council" shall mean the entire Moderator team, the entire Admin team, and the Server Owner, specifically in that this "Council" decides upon License Revocation and License Alteration that lies outside of what is specified in this License.
+
+2. Restrictions of Access and Use
+
+  These Restrictions apply to all Players, including Operators and the Server Owner.
+
+  a) You will abide by any restriction given to You by an Operator.
+    I) If You believe that the restriction is unfair to You then You may raise a complaint with other Operators.
+    II) If You do not abide by any restriction given to Players by an Operator, then You may be subject to a Temporary Denial of Access and Use.
+
+  b) You will not disrespect any other Player, including all Operators and the Server Owner, by any means, including vulgar language, being untruthful, any words which degrade at any aspect of identity, sexual comments, or any other means determined as disrespectful by an Operator or the Server Owner.
+    I) If You engage in disrespectful comments or actions directed at any other Player, any Operator or the Server Owner, then You may be subject to a Temporary or Permanent Denial of Access and Use, depending on severity, as determined by the Operator revoking access.
+      i) In serious situations, the severity of License revocation may be decided by License Revocation and License Alteration Council.
+      ii) For situations involving Libel, Slander, Sexual Harassment, or any other verbal or written abuse defying U.S. Law, the License Revocation and License Alteration Council may choose to report behavior to the proper authorities for criminal punishment.
+
+  c) You will not, by any method, destroy or damage an Item, Block, or Build belonging to any other Player.
+    I) If You engage in destroying or damaging an Item, Block, or Build belonging to any other Player then You may be subject to a Temporary or Permanent Denial of Access and Use, depending on severity, as determined by the Operator revoking access.
+
+  d) You will not request Operator-level privileges.
+    I) If You request Operator-level privileges, You may be subject to Temporary Denial of Access and Use.
+
+  e) You will not in-game kill another Player by any means, except when explicitly permitted by said Player.
+    I) If You in-game kill another Player by any means, You may be subject to Temporary Denial of Access and Use.
+
+  f) You will not exploit or infringe upon the Server's integrity in order to disadvantage or advantage Yourself or another Player by any means or for whatever purpose.
+    I) If You exploit or infringe upon the Server's integrity in order to disadvantage or advantage Yourself or another Player, You may be subject to Permanent Denial of Access and Use and we will report You under U.S. Federal Law for cybercrime depending on severity.
+
+  g) If You are aware of or involved in (an) infringement(s) of the above listed restrictions, report said infringement(s) to an Operator or the Server Owner as soon as possible and message the offending Player(s) of their offenses immediately.
+    I) If You neglect to report said infringement, You may be subject to Temporary Denial of Access and Use.
+
+3. Restrictions and Benefits of Operator-level Privilege
+
+  These Restrictions and Benefits apply to all Operators.
+
+  a. Restrictions of Moderation
+
+    This sections specifies the privileges and the restrictions that Operators must abide to.
+
+    I) You must abide by any and all of the Restrictions of Access and Use.
+      i) If You do not abide by the Restrictions of Access and Use, You may have Your Operator-level privileges revoked and may be subject to Temporary or Permanent Denial of Access and Use depending on the severity of infringement.
+
+    II) You will not disadvantage or advantage Yourself or another Player by way of any Operator-level privilege.
+      i) If You disadvantage or advantage Yourself or another Player, You may have Your Operator-level privileges revoked and may be subject to Temporary or Permanent Denial of Access and Use depending on the severity of infringement.
+
+    III) You will not escalate or deescalate the privileges of another Player without explicit written consent of the Server Owner. An exception exists that in a situation where You have clear evidence that another Operator has abused privileges, in which case You, an Operator, may deescalate the privileges of the offending Operator immediately and temporarily with an immediate written message to the Server Owner.
+      i) If You escalate or deescalate the privileges of another Player without explicit written consent of the Server Owner or without the proper evidence for de-escalation of privilege, You may have Your Operator-level privileges revoked and may be subject to Temporary or Permanent Denial of Access and Use depending on the severity of infringement.
+
+    IV) You, a Moderator, will apply all appropriate Temporary or Permanent Denials of Access and Use as soon as possible. 
+      i) If You believe that a behavior by another Player is inappropriate and said Player should be subject to a Temporary or Permanent Denial of Access and Use, gain the written consent of the License Revocation and License Alteration Council and apply the consented privilege or License revocation as appropriate.
+      ii) Builders may apply Temporary or Permanent Denials of Access and Use in situations that must be reviewed after the License revocation.
+      iii) If You apply an inappropriate Temporary or Permanent Denial of Access and Use or fail to apply all appropriate Temporary or Permanent Denials of Access and Use as soon as possible, You may have Your Operator-level privileges revoked and may be subject to Temporary or Permanent Denial of Access and Use depending on the severity of infringement.
+
+    V) You will not abuse Your Operator-level privilege by any means not listed above.
+      i) "Abuse" will be determined by the License Revocation and License Alteration Council.
+      ii) If You abuse Your Operator-level privilege by any means, You may have Your Operator-level privileges revoked and may be subject to Temporary or Permanent Denial of Access and Use depending on the severity of infringement.
+
+  b. Decision-Making and License Alteration
+
+    This section specifies the duty of the License Revocation and License Alteration Council and the process through which all decisions made outside of the specification of the License must be made.
+
+    I) All decisions made outside of License specifications must be decided by the Operators by democratic process.
+      i) When deciding the severity of License revocation or privilege de-escalation for Players or Operators who have infringed upon their respective restrictions outside of what is specified by the License, all decisions must be made in the following steps:
+        1) The Operator(s) seeking to revoke this License or deescalate the privileges of another Operator must raise their reason and evidence for revocation or privilege de-escalation to the License Revocation and License Alteration Council.
+        2) The Operator(s) must raise the claim publicly and accessible to all Operators, gaining the vote of "for" by more than one-half of the entire Moderator team, one member of the Admin team (with no votes against), or the Server Owner in a voting period not lasting less than six hours.
+           - In cases involving privilege de-escalation or Temporary or Permanent Denial of Access and Use, the License revocation or privilege de-escalation may be applied immediately and temporarily, although the Operator applying the License revocation or privilege de-escalation may be subject to License revocation or privilege de-escalation if decided by the License Revocation and License Alteration Council to have been an inappropriate use of Operator-level privileges.
+           - The Operator(s) raising the claim must abstain from voting.
+           - In the case that at least two-thirds of the entire Moderator team votes "against" and one member of the Admin team votes "for" (with no Admin votes "against"), the decision passes as "against".
+           - In the case that at least two-thirds of the entire Moderator team votes "for" and one member of the Admin team votes "against" (with no Admin votes "for"), the decision passes as "for".
+           - In the case that two Admins vote "against" (with no Admin votes "for"), the decision passes as "against", regardless of the Moderator votes "for".
+           - In the case that two Admins vote "for" (with no Admin votes "against"), the decision passes as "for", regardless of the Moderator votes "against".
+           - In the case that one Admin votes "for" and one Admin votes "against", both of their votes are nullified, where only one vote nullifies one vote.
+           - In the case that at least two-thirds of the Admin team vote "against" and the Server Owner votes "for", the vote passes as "against".
+           - In the case that at least two-thirds of the Admin team vote "for" and the Server Owner votes "against", the vote passes as "for".
+           - In the case that six hours has passed and not enough votes have been cast to make a decision, the majority vote decides. If there is no majority, the next vote decides.
+        3) The Operator(s) who raised the claim must apply the License revocation or privilege de-escalation themselves.
+        4) If the License revocation or privilege de-escalation is temporary, the Operator(s) must re-grant the License or re-grant privileges as deemed appropriate by a similar vote.
+
+    II) All decisions on altering the License must be decided by the entire Admin team and Server Owner by democratic process.
+      i) When deciding to alter a specific subsection or an entire section of the License, the Moderator, Admin, or Server Owner raising the vote must follow the following process:
+        1) The Moderator, Admin, or Server Owner seeking to alter the License must prepare an altered version of the License and make it publicly accessible to all Admins and the Server Owner.
+           - In the case that a License alteration does not pass, the License alteration may be altered further in a significant way to compromise with those who voted "against" the change.
+        2) The Moderator, Admin, or Server Owner seeking to alter the License must raise their reason and evidence for altering the License and raise a vote in a voting period not lasting less than seven days.
+        3) The Moderator, Admin, or Server Owner who raises the vote must gain a vote of "for" by at least two-thirds of the Admin team as well as the vote of "for" by the Server Owner.
+           - In the case that the entire Admin team votes "for" and the Server Owner votes "against", the vote passes as "for".
+           - In the case that the entire Admin team votes "against" and the Server Owner votes "for", the vote passes as "against".
+           - In the case that any less than the entire Admin team votes "for" and the Server Owner votes "against", the vote passes as "against".
+           - In the case that any less than the entire Admin team votes "against" and the Server Owner votes "for", the vote passes as "for".
+           - In the case that not all members of the Admin team have voted or the Server Owner has not voted, then the voting period must be extended until the point that all Admin have voted.
+             = This does not mean that a member voting "against" may delay the process of alteration - if it is believed that an Admin or multiple Admins is/are being purposefully negligent of voting (has not voted within a 14-day period), then the "entire Admin team" may be counted as all members of the Admin team excepting that of the member(s) who have not voted.
+        4) The Server Owner must apply the License changes as soon as possible if the vote is "for".
+
+4. Limitation of Liability
+
+  By agreeing to this License, You agree to all of the following:
+
+  a) That You have fully read this License and understand all restrictions applicable to You, the Player.
+  b) That the Server is in no way liable for the actions of any Player acting under the License.
+  c) That You are not inherently granted this License - Your License may be revoked at any point by a decision of the License Revocation and License Alteration Council.
+
+5. Applicability of License
+
+  This section outlines the applicability of the License and the conditions under which You have agreed to the License by implication.
+
+  By joining the Server or visiting the Webpage, You agree that the Server has provided the License for You to read and that You agree to abide by the restrictions outlined in the License.
+
+END OF TERMS AND CONDITIONS
